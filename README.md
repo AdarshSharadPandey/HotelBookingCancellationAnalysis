@@ -20,12 +20,8 @@ To replicate the analysis, follow these steps:
 4. Open and run the Jupyter Notebook `analysis.ipynb` using a Python environment with the required libraries installed.
 
 ## Dependencies
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+-Excel
+-Power Query Editor
 
 ## Contributing
 Contributions to improve the analysis or add new insights are welcome. If you find any issues or have suggestions for enhancements, please open an issue or create a pull request.
